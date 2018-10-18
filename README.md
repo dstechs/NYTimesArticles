@@ -10,6 +10,8 @@ Appliction supports Android Lollipop and later.
 Very simple flow in application, just open the app you will be directed to dashboard where all the list of Most Popular Articles from New York Times is listed. Listing are best of 7 days.
 It has facility to get new as well as load more when swiping or scrolling list. Once you click on any article the details of specific is displayed. Thats it.
 
+## Find Screenshots attached
+[Click Here](screenshots)
 
 ## How to use the Code for better result
 As per the API requriement I have made global type for the api type and session type
